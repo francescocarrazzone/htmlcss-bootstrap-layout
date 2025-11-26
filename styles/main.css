@@ -1,0 +1,7 @@
+.ms-responsive-font-size {
+    font-size: clamp(14px, 2.5vw, 32px);
+}
+
+.ms-responsive-font-size-2 {
+    font-size: clamp(8px, 2.5vw, 24px);
+}
